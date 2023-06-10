@@ -1,16 +1,10 @@
 # flash_chat_flutter
 
-A new Flutter project.
+## 시작 화면
+![스크린샷 2023-06-11 오전 12 28 05](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/d072809a-3405-4ae3-895d-1cedfb6dc183)  
 
-## Getting Started
+## 채팅화면
+![스크린샷 2023-06-11 오전 12 29 00](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/bfd1ac49-9f90-4ff7-8a44-0967ce478b96)  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 채팅화면 메시지 
+![스크린샷 2023-06-11 오전 12 30 17](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/13d29004-f21f-4ef8-b4e4-9e0c708a4d62)  
